@@ -7,6 +7,8 @@ embedded emotions.
 
 Dataset: https://opendata.deepsig.io/datasets/2016.10/RML2016.10b.tar.bz2
 
+Different forms of data were used, raw data, derivative of data and integral of data.
+
 4 neural networks models were created, CNN, RNN, LSTM and CONV-LSTM.
 
 (detailed project requirements can be found in PR-assignment 4 pdf)
